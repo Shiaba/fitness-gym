@@ -58,6 +58,10 @@ ul > li {
     list-style: none;
 }
 
+.active {
+    border-bottom: 1px solid black;
+}
+
 /* Footer */
 footer {
     background-color: black;
