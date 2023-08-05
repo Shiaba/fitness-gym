@@ -81,9 +81,6 @@ ul > li {
     color: #C13584;
 }
 
-
-
-
 /* Ipad screen & larger (768 & larger) */
 @media screen and (min-width: 768px) {
 
@@ -92,6 +89,11 @@ nav {
     margin: 0 1rem;
     bottom: 0;
 }
+
+#social-media {
+    font-size: 150%;
+}
+
 }
 
 /* Larger Screens ( 998px and larger) */
@@ -99,5 +101,9 @@ nav {
 
 #menu a:hover {
     color: red;
+}
+
+#social-media :hover {
+    color: rgb(128, 128, 128.7);
 }
 }
