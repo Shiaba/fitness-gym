@@ -58,6 +58,11 @@ ul > li {
     list-style: none;
 }
 
+/* Footer */
+footer {
+    background-color: black;
+}
+
 /* social media (Font Awesome icons)*/
 #social-media {
     display: flex;
