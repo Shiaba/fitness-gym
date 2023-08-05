@@ -12,7 +12,7 @@ body {
     font-family: 'Roboto', sans-serif;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 90px 80vh 10vh; 
+    grid-template-rows: 90px 90vh 60px; 
     min-height: 100vh;
     color: black;
 }
@@ -60,9 +60,10 @@ ul > li {
 
 /* social media (Font Awesome icons)*/
 #social-media {
-    text-align: center;
     display: flex;
     justify-content: space-evenly;
+    font-size: 130%;
+    margin: 20px;
 }
 
 #facebook {
@@ -92,6 +93,7 @@ nav {
 
 #social-media {
     font-size: 150%;
+    
 }
 
 }
