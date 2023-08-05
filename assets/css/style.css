@@ -12,7 +12,7 @@ body {
     font-family: 'Roboto', sans-serif;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 10vh 80vh 10vh; 
+    grid-template-rows: 90px 80vh 10vh; 
     min-height: 100vh;
     color: black;
 }
@@ -33,12 +33,7 @@ header {
     align-items: center;
     box-shadow: 0 1px 3px black;
 }
-/* Header Nav  */
-header > nav {
-    position: absolute;
-    bottom: 5px;
-    right: 10px;   
-}
+
 /* Header Navbar positioning */
 header ul {
     display: flex;
@@ -50,15 +45,22 @@ header a {
     text-decoration: none;
 }
 
+/* Nav  */
+nav {
+    position: absolute;
+    bottom: 5px;
+    right: 20px;
+}
+
 ul > li {
     list-style: none;
 }
 
-/* Main */
-main {
-}
+@media screen and (min-width: 768px) {
 
-/* Footer */
-footer {
-    
+nav {
+    font-size: 140%;
+    margin: 0 1rem;
+    bottom: 0;
+}
 }
