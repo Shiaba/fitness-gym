@@ -40,6 +40,7 @@ header ul {
     gap: 15px;
 }
 
+/* Header a */
 header a {
     color: black;
     text-decoration: none;
@@ -52,15 +53,25 @@ nav {
     right: 20px;
 }
 
+/* Remove numbers or dots from Navbar list */
 ul > li {
     list-style: none;
 }
 
+/* Ipad screen & larger (768 & larger) */
 @media screen and (min-width: 768px) {
 
 nav {
     font-size: 140%;
     margin: 0 1rem;
     bottom: 0;
+}
+}
+
+/* Larger Screens ( 998px and larger) */
+@media screen and (min-width: 998px) {
+
+#menu a:hover {
+    color: red;
 }
 }
