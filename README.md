@@ -2,7 +2,7 @@
 -Fitness Gym
 (Picture?)
 -Features:
-    Navigation:
+    Navigation
 -Project Description?
 -Header:
     Home?
@@ -21,5 +21,5 @@
 <a target="_blank" href="https://icons8.com/icon/9796/weightlifting">Fitness</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <!-- Added helping sites -->
 <a target="_blank" href="https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY">
-<!-- Added from font awesome (Menu bar) (How to add correct credit?)-->
-<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg>
+<!-- Got the code on how to make a responsive Nav bar & the hover effect on both @media from CI Love Running. -->
+<a target="_blank" href=https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee>
