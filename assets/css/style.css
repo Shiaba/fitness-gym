@@ -58,6 +58,32 @@ ul > li {
     list-style: none;
 }
 
+/* social media (Font Awesome icons)*/
+#social-media {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#facebook {
+    color: #4267B2;
+}
+
+#twitter {
+    color: #1877f2;
+}
+
+#youtube {
+    color: #FF0000;
+}
+
+#instagram {
+    color: #C13584;
+}
+
+
+
+
 /* Ipad screen & larger (768 & larger) */
 @media screen and (min-width: 768px) {
 
