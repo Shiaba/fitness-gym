@@ -63,6 +63,22 @@ ul > li {
 }
 
 /* About us (Main content) */
+h2 {
+    position: relative;
+    height: 80px;
+    top: 8px;
+    text-align: center;
+}
+
+.about-content {
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.about-content img {
+    width: 90%;
+}
+
 
 
 
