@@ -159,6 +159,10 @@ nav {
     color: red;
 }
 
+.submit:hover {
+    color: rgb(128, 128, 128.7);
+}
+
 #social-media :hover {
     color: rgb(128, 128, 128.7);
 }
