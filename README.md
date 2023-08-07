@@ -32,3 +32,9 @@ https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/
 https://usbrandcolors.com/
 <!-- Added some code from CI "Love Running" to get a right response & a formdump location when submitting the written down information -->
 https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/fc8bba87c52a4d91b32d1c7c28b1d79b/
+<!-- Added images from Pixabay & Stock.adobe -->
+https://pixabay.com/photos/woman-gym-person-1730325/
+https://pixabay.com/photos/fitness-weight-lifting-dumbbells-375472/
+https://stock.adobe.com/se/images/handsome-man-bodybuilder-doing-workout-at-gym/456724931?prev_url=detail
+https://stock.adobe.com/se/images/lifestyle-portrait-of-handsome-muscular-man-standing-in-the-sport-gym/129085065?prev_url=detail
+
