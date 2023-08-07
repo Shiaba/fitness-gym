@@ -129,14 +129,19 @@ nav {
     bottom: 0;
 }
 
-#submit-form {
-    width: 30%;
-    height: 80%;
+#social-media {
+    font-size: 150%
 }
 
-#social-media {
-    font-size: 150%;
-    
+#submit-form {
+    width: 30%;
+    max-height: 400px;
+}
+
+#submit-text {
+    height: 80%;
+    width: 200%;
+    font-size: 130%;
 }
 
 }
