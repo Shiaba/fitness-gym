@@ -72,11 +72,11 @@ div > h2 {
 
 #fitness-reason {
     position: relative;
-    margin: 20px;
-    padding: 20px;
+    margin: 30px;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.2);
-    min-width: 290px;
-    max-width: 40%;
+    min-width: 270px;
+    max-width: 50%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -86,15 +86,18 @@ div > h2 {
 #signup-form {
     margin: 30px;
     background-color: darkolivegreen;
-    padding: 20px;
+    padding: 5px;
     width: 20%;
     min-height: 150px;
-    min-width: 300px;
+    min-width: 270px;
     align-items: center;
     display: flex;
     margin-left: auto;
     margin-right: auto
 }
+
+
+
 
 
 #signup {
