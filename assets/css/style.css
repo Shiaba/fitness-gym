@@ -53,12 +53,35 @@ nav {
 }
 
 /* Remove numbers or dots from Navbar list */
-ul > li {
+nav > ul > li {
     list-style: none;
 }
 
 .active {
     border-bottom: 1px solid black;
+}
+
+/* Home (main content) */
+
+div > img {
+    width: 100%;
+}
+
+div > h2 {
+    width: 100%;
+}
+
+#fitness-reason {
+    position: relative;
+    margin: 20px;
+    padding: 25px;
+    left: 5px;
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 250px;
+}
+
+video {
+    width: 100%;
 }
 
 /* About us (Main content) */
