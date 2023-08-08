@@ -18,7 +18,7 @@ body {
 }
 
 /* H1, H2 & H3 */
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
 }
@@ -80,16 +80,40 @@ div > h2 {
     position: relative;
     margin: 20px;
     padding: 25px;
-    left: 5px;
     background-color: rgba(0, 0, 0, 0.2);
-    width: 400px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
+}
+
+#fitness-reason > ul > li {
+    list-style: disc;
 }
 
 video {
     width: 60%;
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Sign up section */
+#signup-form {
+    margin: 30px;
+    background-color: darkolivegreen;
+    padding: 20px;
+    width: 20%;
+    min-height: 150px;
+    min-width: 300px;
+    align-items: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
+#signup {
+    width: 250px;
     margin-left: auto;
     margin-right: auto;
 }
