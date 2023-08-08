@@ -62,7 +62,6 @@ ul > li {
 }
 
 /* Home (main content) */
-
 div > img {
     width: 100%;
 }
@@ -118,20 +117,17 @@ h2 {
 }
 
 .about-content p {
-    margin: 5px;
     background-color: rgba(0, 0, 0, 0.2);
-    padding: 5px;
-    max-width: 800px;
+    max-width: 100%;
     text-align: center;
 }
 
-.about-content h3 {
-    position: absolute;
-    left: 50px;
+.about-content div img {
+    width: 100%;
 }
 
-.about-content img {
-    width: 100%;
+.about-info {
+    text-align: center;
 }
 
 /* Contact Us (Main content)  */
