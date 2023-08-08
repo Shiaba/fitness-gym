@@ -21,7 +21,6 @@ body {
 h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    color: black;   
 }
 
 /* Header */
@@ -71,19 +70,26 @@ h2 {
 }
 
 .about-content {
-    text-align: center;
+    margin: 3px;
     line-height: 1.5em;
 }
 
-.about-content img {
-    width: 90%;
+.about-content p {
+    margin: 5px;
+    border: 2px solid rgba(90, 90, 90);
+    padding: 5px;
+    max-width: 800px;
+    text-align: center;
 }
 
+.about-content h3 {
+    position: absolute;
+    left: 50px;
+}
 
-
-
-
-
+.about-content img {
+    width: 100%;
+}
 
 /* Contact Us (Main content)  */
 #comment-section {
