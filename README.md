@@ -38,7 +38,5 @@ https://pixabay.com/photos/fitness-weight-lifting-dumbbells-375472/
 https://stock.adobe.com/se/images/handsome-man-bodybuilder-doing-workout-at-gym/456724931?prev_url=detail
 https://stock.adobe.com/se/images/lifestyle-portrait-of-handsome-muscular-man-standing-in-the-sport-gym/129085065?prev_url=detail
 https://stock.adobe.com/se/images/portrait-of-people-holding-kettlebells-in-gym/123881284?prev_url=detail
-<!-- Added video from pexels -->
-https://www.pexels.com/video/man-doing-battle-ropes-6390166/
 <!-- Instructions on how to add & get the video to work -->
 https://www.youtube.com/watch?v=Ki_0iES2cGI
