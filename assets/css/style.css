@@ -92,7 +92,7 @@ ul > li {
 #fitness-reason {
     position: relative;
     margin: 30px;
-    padding: 5px;
+    padding: 5px 0 20px 0;
     background-color: rgba(0, 0, 0, 0.2);
     min-width: 270px;
     max-width: 50%;
@@ -105,7 +105,8 @@ ul > li {
 #signup-form {
     margin: 30px;
     background-color: darkolivegreen;
-    padding: 5px;
+    padding: 0 0 20px 10px;
+    font-size: 20px;
     width: 20%;
     min-height: 150px;
     min-width: 270px;
@@ -119,6 +120,11 @@ ul > li {
     margin-left: auto;
     margin-right: auto;
     padding: 0 10px 10px 0;
+}
+
+#signup-section #email {
+    font-size: 15px;
+    padding: 5px 50px 10px 10px;
 }
 
 /* About us (Main content) */
@@ -187,8 +193,6 @@ ul > li {
     color: white;
     margin-top: 10px;
     border-radius: 10px;
-    margin-left: 90px;
-    margin-right: 90px;
     padding: 5px;
 }
 
