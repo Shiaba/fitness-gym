@@ -107,9 +107,9 @@ div > h2 {
 }
 
 #signup {
-    width: 250px;
     margin-left: auto;
     margin-right: auto;
+    padding: 0 10px 10px 0;
 }
 
 /* About us (Main content) */
@@ -125,7 +125,8 @@ div > h2 {
 .about-content p {
     background-color: rgba(0, 0, 0, 0.2);
     max-width: 100%;
-    text-align: center;
+    font-size: 20px;
+    padding: 10px;
 }
 
 .about-content div img {
@@ -179,6 +180,7 @@ div > h2 {
     border-radius: 10px;
     margin-left: 90px;
     margin-right: 90px;
+    padding: 5px;
 }
 
 /* Footer */
