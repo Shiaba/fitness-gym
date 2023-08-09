@@ -219,10 +219,6 @@ nav {
     bottom: 0;
 }
 
-#social-media {
-    font-size: 150%
-}
-
 #submit-form {
     max-width: 50%;
     left: 200px;
@@ -232,6 +228,10 @@ nav {
     height: 100%;
     width: 100%;
     font-size: 140%;
+}
+
+#social-media {
+    font-size: 180%
 }
 }
 
@@ -269,6 +269,6 @@ div>img {
 }
 
 #social-media :hover {
-    color: rgb(128, 128, 128.7);
+    color: white;
 }
 }
