@@ -145,12 +145,27 @@ ul > li {
     padding: 10px;
 }
 
-.about-content div img {
-    width: 100%;
-}
-
 .about-info {
     text-align: center;
+}
+
+/* About us images */
+#pushup {
+    height: 300px;
+    width: 100%;
+    background: url("../images/dumbbell-pushup.webp") no-repeat center center/cover;
+}
+
+#woman-trainer {
+    height: 500px;
+    width: 100%;
+    background: url("../images/woman-trainer.webp") no-repeat center/cover;
+}
+
+#trainer {
+    height: 300px;
+    width: 100%;
+    background: url("../images/trainer.webp") no-repeat center center/cover;
 }
 
 /* Contact Us (Main content)  */
@@ -226,6 +241,26 @@ footer {
     color: #C13584;
 }
 
+/* Screen & larger (768 & larger) */
+@media screen and (min-width: 540px) {
+
+/* About us images */
+#pushup {
+    height: 600px;
+    background-position-y: 10%;
+}
+
+#woman-trainer {
+    height: 600px;
+    background-position-y: 50%;
+}
+
+#trainer {
+    height: 600px;
+    background-position-y: 10%;
+}
+}
+
 /* Ipad screen & larger (768 & larger) */
 @media screen and (min-width: 768px) {
 
@@ -283,11 +318,6 @@ div>img {
     max-width: 50%;
     margin-left: auto;
     margin-right: auto;
-}
-
-
-.about-content div img {
-    width: 60%;
 }
 
 #submit-text {
