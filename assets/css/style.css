@@ -145,30 +145,40 @@ div > h2 {
 
 #submit-form {
     display: grid;
-    grid-template-columns: 50%;
+    grid-template-columns: 100%;
     box-sizing: border-box;
-    height: 500px;
-    width: 250px;
-    margin: auto;
+    margin: 0 5px 0 5px;
     background: rgba(0, 0, 0, 0.5);
     color: rgba(255, 255, 255);
     border: 2px solid rgba(0, 0, 0, 0.3);
-    padding: 5px;
+    border-radius: 5px;
+    padding: 0 5% 5% 0;
     position: relative;
     top: 5%;
 }
 
 #submit-text {
     display: grid;
-    width: 200%;
+    min-width: 260px;
+    padding: 5px;
     gap: 10px;
+    font-size: larger;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit-form input, textarea {
     font-size: large;
+    padding: 3px;
 }
 
 .submit {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
 /* Footer */
@@ -214,16 +224,15 @@ nav {
 }
 
 #submit-form {
-    width: 30%;
-    max-height: 400px;
+    max-width: 50%;
+    left: 200px;
 }
 
 #submit-text {
-    height: 80%;
-    width: 200%;
-    font-size: 130%;
+    height: 100%;
+    width: 100%;
+    font-size: 140%;
 }
-
 }
 
 /* Larger Screens ( 998px and larger) */
@@ -252,6 +261,10 @@ div>img {
 
 
 .about-content div img {
+    width: 60%;
+}
+
+#submit-text {
     width: 60%;
 }
 
