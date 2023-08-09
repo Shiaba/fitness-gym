@@ -18,9 +18,19 @@ body {
 }
 
 /* H1, H2 & H3 */
-h1, h2, h3, h4 {
+h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
+}
+
+h3 {
+    position: relative;
+    text-align: center;
+    font-size: 140%;
+    height: 50px;
+    top: 10px;
+    padding: 0 0 20px 0;
+
 }
 
 /* Header */
@@ -103,11 +113,8 @@ div > h2 {
 }
 
 /* About us (Main content) */
-h2 {
-    position: relative;
-    height: 80px;
-    top: 8px;
-    text-align: center;
+.hide-heading {
+    display: none;
 }
 
 .about-content {
