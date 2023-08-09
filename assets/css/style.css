@@ -72,12 +72,13 @@ ul > li {
 }
 
 /* Home (main content) */
-div > img {
-    width: 100%;
+#main-image {
+
 }
 
-div > h2 {
-    width: 100%;
+/* Cover text (Text on picture) */
+#get-image {
+
 }
 
 #fitness-reason {
