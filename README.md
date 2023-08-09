@@ -1,6 +1,8 @@
 <!-- Work in progress. First time project -->
--Fitness Gym
-(Picture?)
+# Fitness Gym
+<br>
+Fitness Gym is a fitness/gym center that targets people who are interested in working out no matter if you´re new to training or experienced.
+
 -Features:
     Navigation
 -Project Description?
