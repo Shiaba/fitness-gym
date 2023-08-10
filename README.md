@@ -2,10 +2,43 @@
 # Fitness Gym
 <br>
 Fitness Gym is a fitness/gym center that targets people who are interested in working out no matter if you´re new to training or experienced.
-![code institute] (https://codeinstitute.net)
+<p class="space"></p>
 
-![Am I responsive image of Fitness Gym website] (../media/userstories/userstories9.png)
+![Am I responsive image of Fitness Gym website](/media/userstories/userstories9.png)
+<p class="space"></p>
 
+[View Fitness Gym on Github Pages](https://shiaba.github.io/fitness-gym/)
+<p class="space"></p>
+
+## Features
+<br>
+
+* #### Navigation
+
+  * Featured at the center of the top page is the title: Fitness Gym.  To the right of the title you´ll find links (Home, About us & Contact) that´ll connect you to other pages of the website.
+  * The navigation bar is featured on all pages making it easy to navigate through the website. 
+
+![Navbar](/media/userstories/userstories1.png)
+
+* #### Home page (Home image)
+
+  * The text and page adds a bright image to get the users attention.
+  * The page have an added text on top of the image that tries to get the enthusiasm of the user.
+
+![Home page image](/media/userstories/userstories2.png)
+
+* #### Sign up
+
+  * The form collect´s an email adress.
+  * The sign up section gives users the oppertunity to get offers when signing up.
+
+![Sign up](/media/userstories/userstories3.png)
+
+
+
+
+
+<p class="space"></p>
 
 
 
@@ -25,7 +58,6 @@ Fitness Gym is a fitness/gym center that targets people who are interested in wo
     Content?
     Media
     Inspiration?
-
 
 
 
