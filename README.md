@@ -2,6 +2,12 @@
 # Fitness Gym
 <br>
 Fitness Gym is a fitness/gym center that targets people who are interested in working out no matter if you´re new to training or experienced.
+![code institute] (https://codeinstitute.net)
+
+![Am I responsive image of Fitness Gym website] (../media/userstories/userstories9.png)
+
+
+
 
 -Features:
     Navigation
@@ -19,6 +25,16 @@ Fitness Gym is a fitness/gym center that targets people who are interested in wo
     Content?
     Media
     Inspiration?
+
+
+
+
+
+
+
+
+
+
 <!-- added Favicon (What to write, where & how to credit further?) -->
 <a target="_blank" href="https://icons8.com/icon/9796/weightlifting">Fitness</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <!-- Added helping sites -->
@@ -42,3 +58,6 @@ https://stock.adobe.com/se/images/lifestyle-portrait-of-handsome-muscular-man-st
 https://stock.adobe.com/se/images/portrait-of-people-holding-kettlebells-in-gym/123881284?prev_url=detail
 <!-- Instructions on how to add & get the video to work -->
 https://www.youtube.com/watch?v=Ki_0iES2cGI
+<!-- Am I responsive -->
+
+<!-- w3c validator -->
